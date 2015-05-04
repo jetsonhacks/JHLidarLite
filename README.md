@@ -1,2 +1,9 @@
 # JHLidarLite
-Interface for Lidar-Lite to Jetson TK1 
+Interface for PulsedLight, Inc Lidar-Lite to NVIDIA Jetson TK1 Development Kit
+http://pulsedlight3d.com
+
+Requires: 
+
+$ sudo apt-get install libi2c-dev i2c-tools
+
+
