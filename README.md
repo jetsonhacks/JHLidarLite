@@ -6,9 +6,9 @@ Requires:
 
 $ sudo apt-get install libi2c-dev i2c-tools
 
-Here's the wiring for the test case: i2c bus 1 
+Here's the wiring on the Jetson TK1 for the test case: i2c bus 1 
 
-VCC J3A1-1  (+)    5V
-GND J3A1-14 (-)
-SCL J3A1-18 (C)
-SDA J3A1-20 (D)
+<blockquote><p>VCC J3A1-1  (+)    5V<br>
+GND J3A1-14 (-)<br>
+SCL J3A1-18 (C)<br>
+SDA J3A1-20 (D)</p></blockquote>
