@@ -6,9 +6,7 @@ Requires:
 
 $ sudo apt-get install libi2c-dev i2c-tools
 
-Here's the wiring on the Jetson TK1 for the test case: 
-
-Appears as 0x6b on i2c bus 1 
+The Lidar-Lite appears as 0x6b on i2c bus 1 on the Jetson TK1 with this wiring:
 
 <blockquote><p>VCC J3A1-1  (+)    5V<br>
 GND J3A1-14 (-)<br>
