@@ -24,6 +24,7 @@
 #ifndef LIDARLITE_H
 #define LIDARLITE_H
 
+#include <cstddef>
 #include <linux/i2c-dev.h>
 #include <sys/ioctl.h>
 #include <cstdlib>
